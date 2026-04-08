@@ -1,5 +1,0 @@
-1def test_file_counter_valid_file():
-2def test_file_counter_valid_file():
-3def test_file_counter_valid_file():
-4def test_file_counter_valid_file():
-5def test_file_counter_valid_file():
