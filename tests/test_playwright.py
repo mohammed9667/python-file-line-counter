@@ -8,5 +8,4 @@ def test_open_google():
         page.goto("https://www.google.com")
         
         assert "Google" in page.title()
-        
         browser.close()
